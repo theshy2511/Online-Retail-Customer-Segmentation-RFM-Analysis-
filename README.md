@@ -23,7 +23,7 @@ The goal is to apply the **RFM (Recency, Frequency, Monetary) model** to identif
 
 ## 🖼 Dashboard Preview
 ![Dashboard Overview](retail-rfm-dashboard-overview.png)
-*(Note: Upload your screenshot with this filename to your GitHub repository)*.
+
 
 ## 📂 Project Structure
 * `RFM_Analysis.pbix`: The primary Power BI file containing the model and reports.
